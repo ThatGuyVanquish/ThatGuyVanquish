@@ -26,8 +26,8 @@ Experienced in:
 
 [![LinkedIn](Resources/Logos/LinkedIn.png)][1]
 
-[1]: https://github.com/ThatGuyVanquish/SPL-Assignment-2
-[2]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
+[1]: https://www.linkedin.com/in/nave-hersco/
+[2]: https://github.com/ThatGuyVanquish/SPL-Assignment-2
 [3]: https://github.com/ThatGuyVanquish/3DAnimations_FP
 [4]: https://github.com/ThatGuyVanquish/QtPCPartPicker
 [5]: https://github.com/ThatGuyVanquish/ESPL
