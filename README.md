@@ -18,7 +18,10 @@
 💬 Ask me about why Unholy Bobas are the best dampened switch in existence. Or just any entry keyboard question because I've been using entry custom boards for the past 3 years.
 
 ### Reach me:
-![https://www.linkedin.com/in/nave-hersco/](Resources/Logos/LinkedIn.png)
+
+[![LinkedIn](Resources/Logos/LinkedIn.png)][1]
+
+[1]: https://www.linkedin.com/in/nave-hersco/
 
 <!--
 **ThatGuyVanquish/ThatGuyVanquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
