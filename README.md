@@ -26,7 +26,7 @@ Experienced in:
 
 [![LinkedIn](Resources/Logos/LinkedIn.png)][1]
 
-[1]: https://www.linkedin.com/in/nave-hersco/
+[1]: https://github.com/ThatGuyVanquish/SPL-Assignment-2
 [2]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
 [3]: https://github.com/ThatGuyVanquish/3DAnimations_FP
 [4]: https://github.com/ThatGuyVanquish/QtPCPartPicker
@@ -34,7 +34,7 @@ Experienced in:
 [6]: https://github.com/ThatGuyVanquish/CompilerConstruction_FP
 [7]: https://github.com/ThatGuyVanquish/CompilerConstruction_AS2
 [8]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
-[9]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
+[9]: https://github.com/ThatGuyVanquish/PPL-Assignment-4
 
 <!--
 **ThatGuyVanquish/ThatGuyVanquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
