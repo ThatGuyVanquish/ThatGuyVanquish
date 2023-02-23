@@ -5,8 +5,13 @@
 
 ~ I'm currently working on an NLP model for summarization using MT5, and a 3D Snake game for University courses.
 ##
+
+###
+Experienced in:
+
+[![Java](Resources/Logos/java_100.png)][2]  [![C++](Resources/Logos/c++_100.png)][3]  [![C](Resources/Logos/qt_100.png)][4]  [![C](Resources/Logos/c_100.png)][5]  [![Assembly](Resources/Logos/asm_100.png)][6]  [![Ocaml](Resources/Logos/ocaml_100.png)][7]  [![JS](Resources/Logos/js_100.png)][8]  [![TS](Resources/Logos/ts_100.png)][9]
+
 ##### Random things about yours truly:
-* Exprienced in Java, C++, C, Intel Assembly (64 and 32bit!), Ocaml, JS and TS.
 * Upgrading from Windows to Arch Linux (Manjaro)
 * Scored 100 in the Systems Programming course and 92 in Compiler Construction.
 * I daily an ergonomic keyboard with lubed and filmed Holy Bobas.
@@ -22,6 +27,14 @@
 [![LinkedIn](Resources/Logos/LinkedIn.png)][1]
 
 [1]: https://www.linkedin.com/in/nave-hersco/
+[2]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
+[3]: https://github.com/ThatGuyVanquish/3DAnimations_FP
+[4]: https://github.com/ThatGuyVanquish/QtPCPartPicker
+[5]: https://github.com/ThatGuyVanquish/ESPL
+[6]: https://github.com/ThatGuyVanquish/CompilerConstruction_FP
+[7]: https://github.com/ThatGuyVanquish/CompilerConstruction_AS2
+[8]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
+[9]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
 
 <!--
 **ThatGuyVanquish/ThatGuyVanquish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
