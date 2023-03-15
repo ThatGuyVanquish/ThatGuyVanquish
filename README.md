@@ -13,7 +13,7 @@ Experienced in:
 
 ##### Random things about yours truly:
 * Upgrading from Windows to Arch Linux (Manjaro)
-* Scored 100 in the Systems Programming course and 92 in Compiler Construction.
+* Scored 100 in the Systems Programming course, 92 in Compiler Construction and 100 in Introduction to 3D Animations with OpenGL.
 * I daily an ergonomic keyboard with lubed and filmed Holy Bobas.
 * Interned at Cybereason, where I've built a [dashboard](https://github.com/ThatGuyVanquish/CRStarshipDemo) to monitor Kubernetes on GCP through Prometheus.
 * Love computer hardware, built my first computer at 13, then proceeded to physically modify it and overclock. Probably the reason I built my [Qt PC Part Picker](https://github.com/ThatGuyVanquish/QtPCPartPicker)(WIP).
