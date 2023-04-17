@@ -31,7 +31,7 @@ Experienced in:
 [3]: https://github.com/ThatGuyVanquish/3DAnimations_FP
 [4]: https://github.com/ThatGuyVanquish/QtPCPartPicker
 [5]: https://github.com/ThatGuyVanquish/ESPL
-[6]: https://github.com/ThatGuyVanquish/CompilerConstruction_FP
+[6]: https://github.com/ThatGuyVanquish/CC_FP
 [7]: https://github.com/ThatGuyVanquish/CompilerConstruction_AS2
 [8]: https://github.com/ThatGuyVanquish/ThatGuyVanquish
 [9]: https://github.com/ThatGuyVanquish/PPL-Assignment-4
