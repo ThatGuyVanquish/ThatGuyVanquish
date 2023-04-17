@@ -1,9 +1,9 @@
 # Hello there :wave:
 
 #### I'm Nave, a keyboard enthusiast that obviously got into the hobby because I program since I was 14, not because of "Fjell with lubed Holy Pandas".
-~ Currently in Uni, studying a B.Sc in CS at Ben Gurion University.
+~ Currently in Uni, studying my final semester of B.Sc in CS at Ben Gurion University.
 
-~ I'm currently working on an NLP model for summarization using MT5, and a 3D Snake game for University courses.
+~ I'm currently working on adding random features to a fork of XV6 for Operating Systems class.
 ##
 
 ###
