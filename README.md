@@ -12,15 +12,13 @@ Experienced in:
 [![Java](Resources/Logos/java_100.png)][2]  [![C++](Resources/Logos/c++_100.png)][3]  [![C](Resources/Logos/qt_100.png)][4]  [![C](Resources/Logos/c_100.png)][5]  [![Assembly](Resources/Logos/asm_100.png)][6]  [![Ocaml](Resources/Logos/ocaml_100.png)][7]  [![PYTHON](Resources/Logos/python_100.png)][8]  [![TS](Resources/Logos/ts_100.png)][9]
 
 ##### Random things about yours truly:
-* Upgrading from Windows to Arch Linux (Manjaro)
-* Scored 100 in the Systems Programming course, 92 in Compiler Construction and 100 in Introduction to 3D Animations with OpenGL.
+* Got some experience with Manjaro but am looking for the ideal distro to escape Windows.
+* Scored 100 in the Systems Programming course, 92 in Compiler Construction, 100 in Introduction to 3D Animations with OpenGL, 98 in Topics in Natural Language Processing, 95 in Topics in Error Correcting Codes and 96 in Operating Systems.
+* Took a Functional Programming course which ended up being 98% a Lambda Calculus course and 2% functional programming and aced it.
 * I daily an ergonomic keyboard with lubed and filmed Holy Bobas.
 * Interned at Cybereason, where I've built a [dashboard](https://github.com/ThatGuyVanquish/CRStarshipDemo) to monitor Kubernetes on GCP through Prometheus.
-* Love computer hardware, built my first computer at 13, then proceeded to physically modify it and overclock. Probably the reason I built my [Qt PC Part Picker](https://github.com/ThatGuyVanquish/QtPCPartPicker)(WIP).
+* Love computer hardware, built my first computer at 13, then proceeded to physically modify it and overclock. Probably the reason I built my [Qt PC Part Picker](https://github.com/ThatGuyVanquish/QtPCPartPicker).
 
-
-##
-💬 Ask me about why Unholy Bobas are the best dampened switch in existence. Or just any entry keyboard question because I've been using entry custom boards for the past 3 years.
 
 ### Reach me:
 
